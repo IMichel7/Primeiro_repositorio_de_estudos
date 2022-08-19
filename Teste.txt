@@ -1,3 +1,0 @@
-    Arquivo de texto para testes de git
-
-    Posteriormente esse arquivo vai ser removido via GitGnore
